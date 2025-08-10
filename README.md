@@ -51,7 +51,8 @@ Think Monkeytype… but multiplayer. Compete in real-time typing duels and prove
 ---
 
 ## 📫 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-glover)
-[![Portfolio] Coming soon...
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-glover)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/glo._ver?igsh=aDZmeHpzYWYzbWpn&utm_source=qr)  
+🌐 **Portfolio:** Coming Soon
 
 > _"Code, create, play… repeat."_  
