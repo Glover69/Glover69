@@ -10,7 +10,7 @@ Right now, I’m also diving into **Swift & SwiftUI** because… why not make co
 ## 🚀 My Projects
 
 ### 🗓 [Schedulr](https://github.com/Glover69/Schedulr)
-An Angular app that turns messy timetables into neat, structured calendars. Future AI features will even understand natural language schedules!
+A simple platform that lets users create a class schedule easily and export it to their preferred calendar app (.ics file).
 
 ### ⌨ [Typing Test Game](https://github.com/Glover69/typing-test-game)
 Think Monkeytype… but multiplayer. Compete in real-time typing duels and prove your keyboard supremacy.
@@ -42,11 +42,6 @@ Think Monkeytype… but multiplayer. Compete in real-time typing duels and prove
 ## 📊 GitHub Stats
 ![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Glover69&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Glover69&layout=compact&theme=tokyonight)
-
----
-
-## 📈 Contribution Graph
-![GitHub Contribution Snake](https://github.com/Glover69/Glover69/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
