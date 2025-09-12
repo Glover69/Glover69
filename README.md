@@ -17,7 +17,7 @@ Think Monkeytype… but multiplayer. Compete in real-time typing duels and prove
 
 ### ⌨ [Mpampa Cereals](https:mpampacereals.com)
 The official website for Mpampa Cereals Ltd; a Ghanaian Cereal Company that seeks to provide a one-stop shop for all your indigenous Ghanaian cereals.
-Instagram(https://www.instagram.com/the_mpampa_cereals?igsh=MXAyYm1oZWo2NmVrMQ==)
+[Instagram](https://www.instagram.com/the_mpampa_cereals?igsh=MXAyYm1oZWo2NmVrMQ==)
 
 ---
 
