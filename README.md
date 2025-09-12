@@ -15,7 +15,7 @@ A simple platform that lets users create a class schedule easily and export it t
 ### ⌨ [Typing Test Game](https://github.com/Glover69/typing-test-game)
 Think Monkeytype… but multiplayer. Compete in real-time typing duels and prove your keyboard supremacy.
 
-### 🥣 [Mpampa Cereals](https:mpampacereals.com)
+### 🥣 [Mpampa Cereals](https://www.mpampacereals.com)
 The official website for Mpampa Cereals Ltd; a Ghanaian Cereal Company that seeks to provide a one-stop shop for all your indigenous Ghanaian cereals.
 [Instagram](https://www.instagram.com/the_mpampa_cereals?igsh=MXAyYm1oZWo2NmVrMQ==)
 
