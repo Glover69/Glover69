@@ -22,8 +22,8 @@ The official website for Mpampa Cereals Ltd; a Ghanaian Cereal Company that seek
 ---
 
 ## 🛠 Tech Stack
-- **Frontend:** Angular, Tailwind CSS, SwiftUI
-- **Backend:** Node.js, Express.js
+- **Frontend:** Angular, NextJS, Tailwind CSS, SwiftUI
+- **Backend:** Node.js, Express.js, Java(Spring)
 - **Database:** MongoDB, Firebase
 - **Other Tools:** Git, Figma, Docker
 
@@ -32,6 +32,7 @@ The official website for Mpampa Cereals Ltd; a Ghanaian Cereal Company that seek
 ## 🎯 Currently Learning
 - 📱 iOS Development with **Swift** & **SwiftUI**
 - 🤖 Smarter app features using **AI APIs**
+- Java backend development using SpringBoot
 
 ---
 
