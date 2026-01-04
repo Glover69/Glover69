@@ -15,13 +15,3 @@ The official website for Mpampa Cereals Ltd; a Ghanaian Cereal Company that seek
 ### 🤖 [MCP Server for Mpaampa Cereals](https://github.com/Glover69/mpampa-mcp-server)
 A Model Context Protocol (MCP) server that enables AI assistants to make purchases from Mpampa Cereals.
 
----
-
-
-## 📊 GitHub Stats
-![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Glover69&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Glover69&layout=compact&theme=tokyonight)
-
----
-
-Thanks for stopping by! 👋🏽
