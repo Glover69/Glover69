@@ -5,8 +5,8 @@ I'm Daniel Glover, a developer who loves to build things that are not just funct
 
 ## 🚀 My Projects
 
-### 🗓 [Schedulr](https://github.com/Glover69/Schedulr)
-A simple platform that lets users create a class schedule easily and export it to their preferred calendar app (.ics file).
+### 💻 [Rubrico](https://github.com/Glover69/Rubrico)
+A terminal UI for converting documents to Markdown — browse your files, preview the conversion, and save or copy the result, all without leaving the terminal. Powered by Microsoft's MarkItDown.
 
 ### 🥣 [Mpampa Cereals](https://www.mpampacereals.com)
 The official website for Mpampa Cereals Ltd; a Ghanaian Cereal Company that seeks to provide a one-stop shop for all your indigenous Ghanaian cereals.
